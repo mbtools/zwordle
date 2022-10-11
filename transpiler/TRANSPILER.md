@@ -1,5 +1,7 @@
 # ABAP transpiler version of Wordle Assistant
 
+**Update:** Go to https://github.com/Marc-Bernard-Tools/Wordle-Assistant to see a full web implementation of the Word Assistant
+
 Contribution by [Marc Bernard](https://github.com/mbtools)
 
 Based on https://github.com/hdegroot/zwordle
